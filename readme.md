@@ -37,7 +37,7 @@ There's a wealth of patches here. You can search the repo:
 
 ## Format
 
-I imagine the formatting, as well as the available patches, will change over time. But below is an example patch:
+I imagine the formatting, as well as the available patches, will change over time. Format changes will result in a version bump. But below is an example patch:
 
 ```json
 {
