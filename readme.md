@@ -30,10 +30,10 @@ midi.connect(synth); // fictional?
 
 There's a wealth of patches here. You can search the repo:
 
-[255 'piano' patches](https://github.com/itsjoesullivan/dx7-patches/search?l=json&q=piano&utf8=%E2%9C%93)
-[36 'rhodes' patches](https://github.com/itsjoesullivan/dx7-patches/search?utf8=%E2%9C%93&q=rhodes&type=Code)
-[242 'bass' patches](https://github.com/itsjoesullivan/dx7-patches/search?utf8=%E2%9C%93&q=rhodes&type=Code)
-[34 'trumpet' patches](https://github.com/itsjoesullivan/dx7-patches/search?utf8=%E2%9C%93&q=trumpet&type=Code)
+- [255 'piano' patches](https://github.com/itsjoesullivan/dx7-patches/search?l=json&q=piano&utf8=%E2%9C%93)
+- [36 'rhodes' patches](https://github.com/itsjoesullivan/dx7-patches/search?utf8=%E2%9C%93&q=rhodes&type=Code)
+- [242 'bass' patches](https://github.com/itsjoesullivan/dx7-patches/search?utf8=%E2%9C%93&q=rhodes&type=Code)
+- [34 'trumpet' patches](https://github.com/itsjoesullivan/dx7-patches/search?utf8=%E2%9C%93&q=trumpet&type=Code)
 
 ## Format
 
