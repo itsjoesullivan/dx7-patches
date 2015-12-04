@@ -4,10 +4,13 @@ JSON representation of a collection of Yamaha DX7 patches compiled by Glenn Scot
 
 For the original readme: ftp://ftp.ucsd.edu/midi/patches/DX7/README.1ST
 
-## Path...
+## History
 
 These files have been around for a while. They're currently hosted on a [ucsd website](ftp://ftp.ucsd.edu/midi/patches/DX7/). However, I retrieved them from [Dave Benson's website](https://homepages.abdn.ac.uk/mth192/pages/html/dx7.html#patches). [Ted Felix's dx7 utility](http://tedfelix.com/yamaha-dx7/index.html) then helped convert the sysex information into something I could read, which I then parsed with a file included in a different branch of this repository.
 
+## Organization
+
+The original files came in banks of 32 patches each. Each top-level directory here represents one bank, containing the bank's 32 patches as json files.
 
 ## Usage
 
