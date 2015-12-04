@@ -1,6 +1,6 @@
 {
   "name": "dx7-patches",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON representation of a collection of Yamaha DX7 patches compiled by Glenn Scott",
   "author": "itsjoesullivan",
   "license": "ISC",

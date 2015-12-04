@@ -18,7 +18,7 @@ The original files came in banks of 32 patches each. Each top-level directory he
 
 ```javascript
 var ePianoPatch = require('dx7-patches/rhodes1/epiano-1');
-var FictionalDX7 = require('fictionary-dx7');
+var FictionalDX7 = require('fictional-dx7');
 
 var synth = new FictionaryDX7();
 synth.fictionalSetPathMethod(ePianoPatch);
