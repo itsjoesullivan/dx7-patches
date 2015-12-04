@@ -26,6 +26,15 @@ synth.fictionalSetPathMethod(ePianoPatch);
 midi.connect(synth); // fictional?
 ```
 
+## Walkthrough
+
+There's a wealth of patches here. You can search the repo:
+
+[255 'piano' patches](https://github.com/itsjoesullivan/dx7-patches/search?l=json&q=piano&utf8=%E2%9C%93)
+[36 'rhodes' patches](https://github.com/itsjoesullivan/dx7-patches/search?utf8=%E2%9C%93&q=rhodes&type=Code)
+[242 'bass' patches](https://github.com/itsjoesullivan/dx7-patches/search?utf8=%E2%9C%93&q=rhodes&type=Code)
+[34 'trumpet' patches](https://github.com/itsjoesullivan/dx7-patches/search?utf8=%E2%9C%93&q=trumpet&type=Code)
+
 ## Format
 
 I imagine the formatting, as well as the available patches, will change over time. But below is an example patch:
