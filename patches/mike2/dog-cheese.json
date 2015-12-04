@@ -1,0 +1,184 @@
+{
+  "name": "DOG CHEESE",
+  "algorithm": 1,
+  "feedback": 7,
+  "lfo": {
+    "wave": "sine",
+    "speed": 31,
+    "delay": 80,
+    "pitchModDepth": 9,
+    "amDepth": "45",
+    "sync": "off",
+    "pitchModSensitivity": 4
+  },
+  "oscillatorKeySync": "On",
+  "pitchEG": {
+    "rate1": 98,
+    "rate2": 99,
+    "rate3": 22,
+    "rate4": 99,
+    "level1": 53,
+    "level2": 52,
+    "level3": 50,
+    "level4": 50
+  },
+  "transpose": "C3",
+  "operators": [
+    {
+      "amSensitivity": 3,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 61,
+        "rate2": 74,
+        "rate3": 59,
+        "rate4": 71,
+        "level1": 57,
+        "level2": 98,
+        "level3": 95,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "+EXP",
+        "rightCurve": "+EXP",
+        "leftDepth": 90,
+        "rightDepth": 92
+      },
+      "keyboardRateScaling": 7,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 7
+    },
+    {
+      "amSensitivity": 3,
+      "oscillatorMode": "ratio",
+      "frequency": 21,
+      "detune": 5,
+      "eg": {
+        "rate1": 47,
+        "rate2": 67,
+        "rate3": 76,
+        "rate4": 50,
+        "level1": 99,
+        "level2": 99,
+        "level3": 47,
+        "level4": 36
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "D#3",
+        "leftCurve": "+EXP",
+        "rightCurve": "-EXP",
+        "leftDepth": 85,
+        "rightDepth": 21
+      },
+      "keyboardRateScaling": 7,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 3
+    },
+    {
+      "amSensitivity": 2,
+      "oscillatorMode": "ratio",
+      "frequency": 2,
+      "detune": 7,
+      "eg": {
+        "rate1": 61,
+        "rate2": 74,
+        "rate3": 59,
+        "rate4": 71,
+        "level1": 57,
+        "level2": 98,
+        "level3": 95,
+        "level4": 1
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "+EXP",
+        "rightCurve": "+LIN",
+        "leftDepth": 78,
+        "rightDepth": 31
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 4
+    },
+    {
+      "amSensitivity": 3,
+      "oscillatorMode": "ratio",
+      "frequency": 21,
+      "detune": 4,
+      "eg": {
+        "rate1": 54,
+        "rate2": 40,
+        "rate3": 50,
+        "rate4": 31,
+        "level1": 99,
+        "level2": 34,
+        "level3": 70,
+        "level4": 32
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A#7",
+        "leftCurve": "-EXP",
+        "rightCurve": "+EXP",
+        "leftDepth": 76,
+        "rightDepth": 33
+      },
+      "keyboardRateScaling": 7,
+      "outputLevel": 91,
+      "keyVelocitySensitivity": 7
+    },
+    {
+      "amSensitivity": 3,
+      "oscillatorMode": "ratio",
+      "frequency": 14,
+      "detune": 0,
+      "eg": {
+        "rate1": 47,
+        "rate2": 67,
+        "rate3": 76,
+        "rate4": 50,
+        "level1": 99,
+        "level2": 99,
+        "level3": 47,
+        "level4": 36
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "+EXP",
+        "leftDepth": 17,
+        "rightDepth": 53
+      },
+      "keyboardRateScaling": 6,
+      "outputLevel": 50,
+      "keyVelocitySensitivity": 5
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 61,
+      "detune": -7,
+      "eg": {
+        "rate1": 47,
+        "rate2": 67,
+        "rate3": 76,
+        "rate4": 50,
+        "level1": 66,
+        "level2": 99,
+        "level3": 47,
+        "level4": 36
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "D#7",
+        "leftCurve": "-EXP",
+        "rightCurve": "+EXP",
+        "leftDepth": 70,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 0,
+      "outputLevel": 92,
+      "keyVelocitySensitivity": 0
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "name": "ED E GRAND",
+  "algorithm": 3,
+  "feedback": 4,
+  "lfo": {
+    "wave": "triangle",
+    "speed": 45,
+    "delay": 0,
+    "pitchModDepth": 0,
+    "amDepth": "0",
+    "sync": "off",
+    "pitchModSensitivity": 4
+  },
+  "oscillatorKeySync": "On",
+  "pitchEG": {
+    "rate1": 0,
+    "rate2": 0,
+    "rate3": 0,
+    "rate4": 0,
+    "level1": 50,
+    "level2": 50,
+    "level3": 50,
+    "level4": 50
+  },
+  "transpose": "C2",
+  "operators": [
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": -1,
+      "eg": {
+        "rate1": 90,
+        "rate2": 22,
+        "rate3": 28,
+        "rate4": 50,
+        "level1": 99,
+        "level2": 90,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "F2",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 3
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": 3,
+      "eg": {
+        "rate1": 98,
+        "rate2": 30,
+        "rate3": 6,
+        "rate4": 37,
+        "level1": 91,
+        "level2": 90,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "B3",
+        "leftCurve": "+LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 22,
+        "rightDepth": 32
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 86,
+      "keyVelocitySensitivity": 1
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 7,
+      "detune": -2,
+      "eg": {
+        "rate1": 84,
+        "rate2": 80,
+        "rate3": 19,
+        "rate4": 17,
+        "level1": 83,
+        "level2": 67,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "B2",
+        "leftCurve": "+LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 9,
+        "rightDepth": 59
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 84,
+      "keyVelocitySensitivity": 3
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": 3,
+      "eg": {
+        "rate1": 90,
+        "rate2": 46,
+        "rate3": 28,
+        "rate4": 50,
+        "level1": 99,
+        "level2": 92,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "G3",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 95,
+      "keyVelocitySensitivity": 2
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": -1,
+      "eg": {
+        "rate1": 98,
+        "rate2": 20,
+        "rate3": 6,
+        "rate4": 7,
+        "level1": 91,
+        "level2": 90,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "D3",
+        "leftCurve": "+LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 27
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 87,
+      "keyVelocitySensitivity": 1
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 2,
+      "eg": {
+        "rate1": 80,
+        "rate2": 73,
+        "rate3": 15,
+        "rate4": 15,
+        "level1": 99,
+        "level2": 19,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "D4",
+        "leftCurve": "-LIN",
+        "rightCurve": "+LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 84,
+      "keyVelocitySensitivity": 5
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "name": "E. GOM��  ",
+  "algorithm": 17,
+  "feedback": 7,
+  "lfo": {
+    "wave": "sine",
+    "speed": 159,
+    "delay": 33,
+    "pitchModDepth": 0,
+    "amDepth": "0",
+    "sync": "off",
+    "pitchModSensitivity": 2
+  },
+  "oscillatorKeySync": "Off",
+  "pitchEG": {
+    "rate1": 222,
+    "rate2": 195,
+    "rate3": 223,
+    "rate4": 188,
+    "level1": 178,
+    "level2": 178,
+    "level3": 178,
+    "level4": 50
+  },
+  "transpose": "C2",
+  "operators": [
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 207,
+        "rate2": 164,
+        "rate3": 146,
+        "rate4": 63,
+        "level1": 96,
+        "level2": 198,
+        "level3": 128,
+        "level4": 128
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "*out of range*",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 128,
+        "rightDepth": 140
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 227,
+      "keyVelocitySensitivity": 2
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 35,
+        "rate2": 27,
+        "rate3": 42,
+        "rate4": 50,
+        "level1": 99,
+        "level2": 0,
+        "level3": 128,
+        "level4": 128
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "D3",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 163
+      },
+      "keyboardRateScaling": 1,
+      "outputLevel": 0,
+      "keyVelocitySensitivity": 2
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": 0,
+      "eg": {
+        "rate1": 73,
+        "rate2": 25,
+        "rate3": 32,
+        "rate4": 30,
+        "level1": 97,
+        "level2": 78,
+        "level3": 128,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 128,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 68,
+      "keyVelocitySensitivity": 3
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 80,
+        "rate2": 167,
+        "rate3": 28,
+        "rate4": 53,
+        "level1": 93,
+        "level2": 57,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 94,
+      "keyVelocitySensitivity": 3
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": 0,
+      "eg": {
+        "rate1": 99,
+        "rate2": 51,
+        "rate3": 128,
+        "rate4": 128,
+        "level1": 99,
+        "level2": 202,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "G2",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 160
+      },
+      "keyboardRateScaling": 4,
+      "outputLevel": 75,
+      "keyVelocitySensitivity": 2
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 25,
+        "rate2": 50,
+        "rate3": 24,
+        "rate4": 55,
+        "level1": 96,
+        "level2": 97,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 87,
+      "keyVelocitySensitivity": 7
+    }
+  ]
+}

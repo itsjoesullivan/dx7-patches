@@ -1,0 +1,184 @@
+{
+  "name": "TENJIKU   ",
+  "algorithm": 8,
+  "feedback": 2,
+  "lfo": {
+    "wave": "sine",
+    "speed": 35,
+    "delay": 89,
+    "pitchModDepth": 0,
+    "amDepth": "0",
+    "sync": "on",
+    "pitchModSensitivity": 4
+  },
+  "oscillatorKeySync": "Off",
+  "pitchEG": {
+    "rate1": 97,
+    "rate2": 98,
+    "rate3": 75,
+    "rate4": 60,
+    "level1": 55,
+    "level2": 40,
+    "level3": 50,
+    "level4": 50
+  },
+  "transpose": "C3",
+  "operators": [
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": 0,
+      "eg": {
+        "rate1": 78,
+        "rate2": 53,
+        "rate3": 20,
+        "rate4": 43,
+        "level1": 99,
+        "level2": 95,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 0,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 1
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": 0,
+      "eg": {
+        "rate1": 29,
+        "rate2": 65,
+        "rate3": 21,
+        "rate4": 35,
+        "level1": 92,
+        "level2": 93,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 0,
+      "outputLevel": 84,
+      "keyVelocitySensitivity": 2
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 99,
+        "rate2": 73,
+        "rate3": 20,
+        "rate4": 89,
+        "level1": 99,
+        "level2": 95,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 0,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 1
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 10,
+      "detune": 0,
+      "eg": {
+        "rate1": 99,
+        "rate2": 53,
+        "rate3": 75,
+        "rate4": 75,
+        "level1": 99,
+        "level2": 35,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-EXP",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 0,
+      "outputLevel": 64,
+      "keyVelocitySensitivity": 2
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 99,
+        "rate2": 79,
+        "rate3": 20,
+        "rate4": 40,
+        "level1": 99,
+        "level2": 97,
+        "level3": 87,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "G0",
+        "leftCurve": "-LIN",
+        "rightCurve": "-EXP",
+        "leftDepth": 0,
+        "rightDepth": 50
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 2
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 0,
+        "rate2": 32,
+        "rate3": 20,
+        "rate4": 30,
+        "level1": 99,
+        "level2": 99,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "G0",
+        "leftCurve": "-LIN",
+        "rightCurve": "-EXP",
+        "leftDepth": 0,
+        "rightDepth": 55
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 96,
+      "keyVelocitySensitivity": 2
+    }
+  ]
+}

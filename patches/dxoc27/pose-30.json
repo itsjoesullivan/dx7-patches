@@ -1,0 +1,184 @@
+{
+  "name": "POSE 30   ",
+  "algorithm": 15,
+  "feedback": 5,
+  "lfo": {
+    "wave": "sine",
+    "speed": 25,
+    "delay": 0,
+    "pitchModDepth": 10,
+    "amDepth": "99",
+    "sync": "off",
+    "pitchModSensitivity": 3
+  },
+  "oscillatorKeySync": "On",
+  "pitchEG": {
+    "rate1": 50,
+    "rate2": 50,
+    "rate3": 50,
+    "rate4": 50,
+    "level1": 50,
+    "level2": 50,
+    "level3": 50,
+    "level4": 50
+  },
+  "transpose": "C2",
+  "operators": [
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": 0,
+      "eg": {
+        "rate1": 99,
+        "rate2": 40,
+        "rate3": 33,
+        "rate4": 38,
+        "level1": 99,
+        "level2": 92,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 4,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 7
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": 0,
+      "eg": {
+        "rate1": 99,
+        "rate2": 19,
+        "rate3": 20,
+        "rate4": 9,
+        "level1": 99,
+        "level2": 87,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "F#4",
+        "leftCurve": "+EXP",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 71
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 78,
+      "keyVelocitySensitivity": 7
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 1,
+      "detune": 0,
+      "eg": {
+        "rate1": 99,
+        "rate2": 30,
+        "rate3": 35,
+        "rate4": 42,
+        "level1": 99,
+        "level2": 92,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 7
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 2,
+      "detune": 7,
+      "eg": {
+        "rate1": 99,
+        "rate2": 44,
+        "rate3": 50,
+        "rate4": 21,
+        "level1": 99,
+        "level2": 82,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 7
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 5,
+      "detune": 0,
+      "eg": {
+        "rate1": 99,
+        "rate2": 40,
+        "rate3": 38,
+        "rate4": 0,
+        "level1": 91,
+        "level2": 82,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 80,
+      "keyVelocitySensitivity": 6
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "fixed",
+      "frequency": 398,
+      "detune": 0,
+      "eg": {
+        "rate1": 99,
+        "rate2": 49,
+        "rate3": 28,
+        "rate4": 12,
+        "level1": 91,
+        "level2": 82,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "A-1",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 0
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 72,
+      "keyVelocitySensitivity": 6
+    }
+  ]
+}

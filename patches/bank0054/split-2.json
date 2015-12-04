@@ -1,0 +1,184 @@
+{
+  "name": "Split #2  ",
+  "algorithm": 11,
+  "feedback": 0,
+  "lfo": {
+    "wave": "sine",
+    "speed": 27,
+    "delay": 33,
+    "pitchModDepth": 0,
+    "amDepth": "0",
+    "sync": "off",
+    "pitchModSensitivity": 0
+  },
+  "oscillatorKeySync": "On",
+  "pitchEG": {
+    "rate1": 94,
+    "rate2": 67,
+    "rate3": 95,
+    "rate4": 60,
+    "level1": 50,
+    "level2": 50,
+    "level3": 50,
+    "level4": 50
+  },
+  "transpose": "C3",
+  "operators": [
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 79,
+        "rate2": 36,
+        "rate3": 18,
+        "rate4": 63,
+        "level1": 96,
+        "level2": 70,
+        "level3": 70,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "D#3",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 99
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 99,
+      "keyVelocitySensitivity": 1
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 79,
+        "rate2": 70,
+        "rate3": 35,
+        "rate4": 50,
+        "level1": 99,
+        "level2": 60,
+        "level3": 96,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "D#3",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 99
+      },
+      "keyboardRateScaling": 1,
+      "outputLevel": 77,
+      "keyVelocitySensitivity": 0
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 73,
+        "rate2": 15,
+        "rate3": 22,
+        "rate4": 30,
+        "level1": 97,
+        "level2": 93,
+        "level3": 78,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "D#3",
+        "leftCurve": "+EXP",
+        "rightCurve": "-LIN",
+        "leftDepth": 30,
+        "rightDepth": 99
+      },
+      "keyboardRateScaling": 4,
+      "outputLevel": 90,
+      "keyVelocitySensitivity": 3
+    },
+    {
+      "amSensitivity": 3,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 75,
+        "rate2": 22,
+        "rate3": 0,
+        "rate4": 38,
+        "level1": 99,
+        "level2": 91,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "C4",
+        "leftCurve": "-LIN",
+        "rightCurve": "+EXP",
+        "leftDepth": 99,
+        "rightDepth": 99
+      },
+      "keyboardRateScaling": 7,
+      "outputLevel": 97,
+      "keyVelocitySensitivity": 3
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": 0,
+      "eg": {
+        "rate1": 75,
+        "rate2": 18,
+        "rate3": 3,
+        "rate4": 45,
+        "level1": 99,
+        "level2": 88,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "C3",
+        "leftCurve": "-LIN",
+        "rightCurve": "+EXP",
+        "leftDepth": 0,
+        "rightDepth": 12
+      },
+      "keyboardRateScaling": 3,
+      "outputLevel": 74,
+      "keyVelocitySensitivity": 3
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 3,
+      "detune": 0,
+      "eg": {
+        "rate1": 75,
+        "rate2": 24,
+        "rate3": 20,
+        "rate4": 43,
+        "level1": 99,
+        "level2": 88,
+        "level3": 0,
+        "level4": 0
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "C3",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 24
+      },
+      "keyboardRateScaling": 5,
+      "outputLevel": 86,
+      "keyVelocitySensitivity": 7
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "name": "b[]+",
+  "algorithm": 2,
+  "feedback": 0,
+  "lfo": {
+    "wave": "sawtooth down",
+    "speed": 32,
+    "delay": 95,
+    "pitchModDepth": 72,
+    "amDepth": "37",
+    "sync": "off",
+    "pitchModSensitivity": 6
+  },
+  "oscillatorKeySync": "Off",
+  "pitchEG": {
+    "rate1": 24,
+    "rate2": 80,
+    "rate3": 73,
+    "rate4": 80,
+    "level1": 69,
+    "level2": 83,
+    "level3": 32,
+    "level4": 49
+  },
+  "transpose": "*out of range*",
+  "operators": [
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": -3,
+      "eg": {
+        "rate1": 0,
+        "rate2": 0,
+        "rate3": 99,
+        "rate4": 99,
+        "level1": 99,
+        "level2": 99,
+        "level3": 50,
+        "level4": 50
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "B3",
+        "leftCurve": "-EXP",
+        "rightCurve": "+LIN",
+        "leftDepth": 50,
+        "rightDepth": 4
+      },
+      "keyboardRateScaling": 4,
+      "outputLevel": 0,
+      "keyVelocitySensitivity": 0
+    },
+    {
+      "amSensitivity": 3,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": -6,
+      "eg": {
+        "rate1": 0,
+        "rate2": 0,
+        "rate3": 51,
+        "rate4": 15,
+        "level1": 98,
+        "level2": 46,
+        "level3": 97,
+        "level4": 99
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "B7",
+        "leftCurve": "+EXP",
+        "rightCurve": "+LIN",
+        "leftDepth": 0,
+        "rightDepth": 11
+      },
+      "keyboardRateScaling": 6,
+      "outputLevel": 58,
+      "keyVelocitySensitivity": 1
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": -1,
+      "eg": {
+        "rate1": 2,
+        "rate2": 0,
+        "rate3": 99,
+        "rate4": 80,
+        "level1": 98,
+        "level2": 46,
+        "level3": 97,
+        "level4": 99
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "B7",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 15
+      },
+      "keyboardRateScaling": 2,
+      "outputLevel": 60,
+      "keyVelocitySensitivity": 1
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": -7,
+      "eg": {
+        "rate1": 14,
+        "rate2": 0,
+        "rate3": 59,
+        "rate4": 15,
+        "level1": 98,
+        "level2": 51,
+        "level3": 98,
+        "level4": 99
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "B7",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 15
+      },
+      "keyboardRateScaling": 0,
+      "outputLevel": 52,
+      "keyVelocitySensitivity": 1
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 16,
+      "detune": -7,
+      "eg": {
+        "rate1": 8,
+        "rate2": 0,
+        "rate3": 59,
+        "rate4": 15,
+        "level1": 98,
+        "level2": 77,
+        "level3": 98,
+        "level4": 99
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "B7",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 15
+      },
+      "keyboardRateScaling": 0,
+      "outputLevel": 60,
+      "keyVelocitySensitivity": 1
+    },
+    {
+      "amSensitivity": 0,
+      "oscillatorMode": "ratio",
+      "frequency": 0,
+      "detune": -7,
+      "eg": {
+        "rate1": 16,
+        "rate2": 0,
+        "rate3": 51,
+        "rate4": 15,
+        "level1": 98,
+        "level2": 46,
+        "level3": 97,
+        "level4": 99
+      },
+      "keyboardLevelScaling": {
+        "breakpoint": "B7",
+        "leftCurve": "-LIN",
+        "rightCurve": "-LIN",
+        "leftDepth": 0,
+        "rightDepth": 40
+      },
+      "keyboardRateScaling": 6,
+      "outputLevel": 52,
+      "keyVelocitySensitivity": 0
+    }
+  ]
+}
