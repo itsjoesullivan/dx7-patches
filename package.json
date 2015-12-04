@@ -1,14 +1,10 @@
 {
-  "name": "dx7-patch-parser",
+  "name": "dx7-patches",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "JSON representation of a collection of Yamaha DX7 patches compiled by Glenn Scott",
+  "author": "itsjoesullivan",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "slug": "^0.9.1"
   }
 }
